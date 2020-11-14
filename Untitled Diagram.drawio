@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T14:23:09.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="zS0Ua71jMlihnxvMXK_i" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T14:25:06.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="hkwJQs0JJldbWm0PyCaf" version="13.9.8" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="958" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,10 +12,10 @@
         </mxCell>
         <mxCell id="KJElLWz1dI4PZKKSUx4--6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="600" as="sourcePoint" />
-            <mxPoint x="220" y="510" as="targetPoint" />
+            <mxPoint x="214.5" y="610" as="sourcePoint" />
+            <mxPoint x="214.5" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="550" />
+              <mxPoint x="214.5" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,6 +118,12 @@
         </mxCell>
         <mxCell id="KJElLWz1dI4PZKKSUx4--45" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KJElLWz1dI4PZKKSUx4--47" value="고객" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KJElLWz1dI4PZKKSUx4--49" value="회원" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="711" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
